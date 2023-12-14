@@ -1,0 +1,297 @@
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ResolveAssemblyReference.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form1.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Properties.Resources.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.csproj.GenerateResource.Cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form2.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ZedGraph.dll
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ZedGraph.xml
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\es\ZedGraph.resources.dll
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form3.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form4.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.DlgForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.MapForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.DataForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Report1.rdlc
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\RdlCompile.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\RdlCompile.compiled
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.exe.config
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.exe.config
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ZedGraph.dll
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ZedGraph.xml
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.MapForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\RdlCompile.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\RdlCompile.compiled
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\bin\Release\ConvertTacho.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\bin\Release\ConvertTacho.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\bin\Release\ConvertTacho.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.MapForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_백업_110302\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.MapForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\bin\Release\ConvertTacho(운영기록계).exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\bin\Release\ConvertTacho(운영기록계).exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\bin\Release\ConvertTacho(운영기록계).pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho(운영기록계).exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho_최신_110302\ConvertTacho\obj\Release\ConvertTacho(운영기록계).pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.MapForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\bin\Release\ConvertTacho(운행기록계).exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\bin\Release\ConvertTacho(운행기록계).exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\bin\Release\ConvertTacho(운행기록계).pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho(운행기록계).exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계)\ConvertTacho\obj\Release\ConvertTacho(운행기록계).pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\bin\Release\ConvertTacho(운행기록계).exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho(운행기록계).exe
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho(운행기록계).pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\bin\Release\ConvertTacho(운행기록계).exe
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\bin\Release\ConvertTacho(운행기록계).pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.Form5.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\Demo.WindowsForms.Map.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계db)\ConvertTacho\obj\Release\ConvertTacho.MainForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form5.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.MainForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\Demo.WindowsForms.Map.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.1.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV1.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV1.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form5.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.MainForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\Demo.WindowsForms.Map.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.01.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.01.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.01.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV1.01.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV1.01.pdb
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.01.exe.config
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV1.01.exe
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV1.01.pdb
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.01.exe
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV1.01.pdb
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form5.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.MainForm.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\Demo.WindowsForms.Map.resources
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Users\jie\Desktop\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form5.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.MainForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\Demo.WindowsForms.Map.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\GMap.NET.WindowsForms.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\GMap.NET.Core.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\System.Data.SQLite.xml
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.FormExecel.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\GMap.NET.WindowsForms.xml
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV2.05.exe.config
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV2.05.exe
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\Release\ConvertTachoV2.05.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV2.05.exe
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\Release\ConvertTachoV2.05.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ConvertTachoV2.05.exe.config
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Report1.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form2.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form5.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.FormExecel.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.FormInputTerm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.MainForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form3.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form4.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.DataForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\Demo.WindowsForms.Map.resources
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ConvertTachoV2.05.exe
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ConvertTachoV2.05.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.WindowsForms.dll
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ZedGraph.dll
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.WindowsForms.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.WindowsForms.xml
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.Core.pdb
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\System.Data.SQLite.xml
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ZedGraph.xml
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTachoV2.05.exe
+C:\Documents and Settings\Administrator\바탕 화면\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTachoV2.05.pdb
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ConvertTachoV2.05.exe.config
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTachoV2.05.exe
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTachoV2.05.pdb
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ConvertTachoV2.05.exe
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ConvertTachoV2.05.pdb
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.WindowsForms.dll
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ZedGraph.dll
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.WindowsForms.pdb
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.WindowsForms.xml
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\GMap.NET.Core.pdb
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\System.Data.SQLite.xml
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\ZedGraph.xml
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\bin\x86\Release\es\ZedGraph.resources.dll
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ResolveAssemblyReference.cache
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Report1.rdlc
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form1.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form2.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form5.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.FormExecel.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.FormInputTerm.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.FormLoad.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.MainForm.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Properties.Resources.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form3.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.Form4.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.DlgForm.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.DataForm.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\Demo.WindowsForms.Map.resources
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\ConvertTacho.csproj.GenerateResource.Cache
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\RdlCompile.cache
+D:\KTK_Projects\ConvertTacho(운행기록계+Map)\ConvertTacho\obj\x86\Release\RdlCompile.compiled
